@@ -67,7 +67,7 @@ As transformações foram descritas em **QVT** (Query/View/Transformation), do m
 - Algumas funcionalidades exigem conhecimento de linguagens externas, como Java.
 - Documentação nem sempre clara para quem cria uma DSML pela primeira vez.
 
-**Sugestões de melhoria:** interface mais objetiva e intuitiva, e documentação mais clara sobre as funcionalidades suportadas.
+**Sugestões de melhoria:** interface mais objetiva e intuitiva, documentação mais clara sobre as funcionalidades suportadas, e uma nova implementação.
 
 ## Arquivos
 
@@ -75,7 +75,3 @@ As transformações foram descritas em **QVT** (Query/View/Transformation), do m
 |---------|-----------|
 | `Relatório_BakeML.docx` | Relatório de desenvolvimento da BakeML |
 | `README.md` | Este arquivo |
-
-## Contexto acadêmico
-
-Trabalho acadêmico produzido na disciplina de Engenharia de Software Orientada a Modelos, no curso de Ciência da Computação da UFF.
